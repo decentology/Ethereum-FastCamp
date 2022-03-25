@@ -82,3 +82,11 @@ With this idea, I plan on making a mintable membership card for a fake/example o
 For this idea, I am interested in making a HI/LO style game with 50/50 odds. It could simply just be a hi/lo game, or I could try to also add a win/lose streak component, and see if I can set up an NFT mint from that component as well. Essentially, the user would play the hi/lo game as many times as they want, then, they could mint their result. I am not sure if there's enough time to implement the minting, but getting the hi/lo game built would be fun :)
 
 I mentioned a few project ideas since the submission mentioned to write ALL project ideas here. I am looking forward to the next step!
+
+# Project Idea 
+
+## NF001
+
+want to create minting page where user can input image and mint that image as NFT. where they can also transfer the image to another user.
+Smart Modules: Token Modules (Ethereum ERC-721)
+DappStarter: Token Minting page

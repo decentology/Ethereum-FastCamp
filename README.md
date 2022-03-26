@@ -94,6 +94,13 @@ Probably this module will be relevant:
 DA001: Build sub-communities within the DAO you’re starting or an active member in. With our Tribes module you can develop different groups and distribute different roles and responsibilities within them for a more optimized workflow. You can even get creative and add personalized art that represents your creators, developers, admins or any other figure within these working groups!
 Smart Modules: Tribes (Ethereum)
 
+# Project Idea 
+
+## NF001
+
+want to create minting page where user can input image and mint that image as NFT. where they can also transfer the image to another user.
+Smart Modules: Token Modules (Ethereum ERC-721)
+DappStarter: Token Minting page
 
 # Rengarajan's Idea
 ### NFT's

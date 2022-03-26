@@ -101,3 +101,7 @@ Smart Modules: Tribes (Ethereum)
 want to create minting page where user can input image and mint that image as NFT. where they can also transfer the image to another user.
 Smart Modules: Token Modules (Ethereum ERC-721)
 DappStarter: Token Minting page
+
+# Rengarajan's Idea
+### NFT's
+NF002 : To Create a NFT marketplace, which is intutive for the mobile users (Android, iOs) where they can do all their transactions via app. In addition to that we can  provide some customized notification for the users. 

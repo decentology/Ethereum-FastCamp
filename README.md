@@ -39,6 +39,8 @@ GF003: Create a decentralized game that relies entirely on chance. The game can 
 Smart Modules: Random Pick (Ethereum)
 DappStarter: Randomized Game
 
+GF004: Create a dating game with a matchmaker to pair up potential couples. Use the Tribes template to spawn various types of avatars that the user can customise and then smart-contract parameters will determine compatibility, rather than a battle and a champion.
+
 ### DAO
 
 DA001: Build sub-communities within the DAO you’re starting or an active member in. With our Tribes module you can develop different groups and distribute different roles and responsibilities within them for a more optimized workflow. You can even get creative and add personalized art that represents your creators, developers, admins or any other figure within these working groups!
@@ -48,6 +50,8 @@ DappStarter: DAO Roles & Responsibilities
 DA002: Maybe there’s a lot of decision making occurring in your DAO and no one has established the best method for collecting votes. Our Tribes module can create a fun and interactive way for your members to cast them! Each tribe can be transformed to represent an important decision that needs to be made where your members can then make their choice.
 Smart Modules: Tribes (Ethereum), ERC720, ERC721
 DappStarter: DAO Cast your Vote
+
+DAO003: Create a DAO Launchpad to assist new users import, migrate, or merely just start their DAO journey on the Hyperverse.
 
 ### Developing
 

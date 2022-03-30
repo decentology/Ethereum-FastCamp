@@ -112,3 +112,4 @@ DappStarter: Token Minting page
 NF002 : To Create a NFT marketplace, which is intutive for the mobile users (Android, iOs) where they can do all their transactions via app. In addition to that we can  provide some customized notification for the users. 
 
 # Shain's Idea
+test idea
